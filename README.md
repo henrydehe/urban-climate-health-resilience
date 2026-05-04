@@ -1,6 +1,8 @@
 # Urban Climate Health Resilience
 
-This repository contains the data and R code needed to run the Urban Climate Health Resilience modelling workflow and reproduce the final outputs used for the manuscript tables and figures.
+> **Note:** The underlying data are not shared in the public version of this repository. They are available from the authors upon reasonable request.
+
+This repository contains the R code needed to run the Urban Climate Health Resilience modelling workflow and reproduce the final outputs used for the manuscript tables and figures.
 
 ## How to run the model
 
