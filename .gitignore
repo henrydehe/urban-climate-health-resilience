@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R
+*.Rcheck/
+.Renviron
+
+# Editors
+.vscode/
+.idea/
